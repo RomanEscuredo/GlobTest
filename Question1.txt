@@ -1,0 +1,2 @@
+La fonction foo prend en entrée 2 a plusieur tableau de 2 case
+et donne en sortie 1 ou plusieur tableau contenant de 2 case ayant la valeur la plus faible et la plus grande de la suite de tableau donnée en entrée
